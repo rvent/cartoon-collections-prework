@@ -25,4 +25,5 @@ def find_the_cheese(food)# code an argument here
       return food.find(cheese)
     end
   end
+  nil
 end
